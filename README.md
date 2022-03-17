@@ -15,3 +15,6 @@ DAGPUNET-CLIENT (PEOPLE WHO USE THE NETWORK FOR GAIN)
 ```
 pip3 install -U "ray[serve]" numba
 ```
+
+# CLIENT DEPENDENCIES
+pip3 install -U ray
